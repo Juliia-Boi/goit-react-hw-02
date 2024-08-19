@@ -1,0 +1,30 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  /* background-color: red */
+}
+
+.container {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+  flex-direction: column;
+  background-image: url("https://bogatyr.club/uploads/posts/2023-03/1678937592_bogatyr-club-p-tsvet-kofeinikh-zeren-foni-instagram-1.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  align-items: center;
+  align-content: space-between;
+}
+
+/* body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+} */
